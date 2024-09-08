@@ -7,16 +7,9 @@ This repository is prepared to host the code associated with our paper titled "*
 Virtual sensing (VS) technology enables active noise control (ANC) systems to attenuate noise at virtual locations distant from the physical error microphones. Appropriate auxiliary filters (AF) can significantly enhance the effectiveness of VS approaches. The selection of appropriate AF for various types of noise can be automatically achieved using convolutional neural networks (CNNs). However, training the CNN model for different ANC systems is often labour-intensive and time-consuming. To tackle this problem, we propose a novel method, Transferable Selective VS, by integrating metric-learning technology into CNN-based VS approaches. The Transferable Selective VS method allows a pre-trained CNN to be applied directly to new ANC systems without requiring retraining, and it can handle unseen noise types. Numerical simulations demonstrate the effectiveness of the proposed method in attenuating sudden-varying broadband noises and real-world noises.
 
 <p align="center">
-  <img src=control.png alt="" width="600" height="500">
+  <img src="Fig1.png" alt="" width="500" height="480">
+  <img src="Fig2.png" alt="" width="500" height="480">
 </p>
-<p align="center">
-</p>
-<p align="center">
-  <img src=combine.png alt="" width="600" height="500">
-</p>
-<p align="center">
-</p>
-
 
 
 ## Code Availability
