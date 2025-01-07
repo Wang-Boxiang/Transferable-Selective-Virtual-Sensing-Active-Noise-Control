@@ -1,6 +1,6 @@
 # Transferable Selective Virtual Sensing Active Noise Control
 
-This repository contains the code associated with our paper titled "**Transferable Selective Virtual Sensing Active Noise Control Technique Based on Metric Learning**", accepted by the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). The paper is available on 
+This repository contains the code associated with our paper titled "**Transferable Selective Virtual Sensing Active Noise Control Technique Based on Metric Learning**", accepted by the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). The paper is available on https://arxiv.org/abs/2409.05470
 
 ## Overview
 
@@ -12,13 +12,9 @@ Virtual sensing (VS) technology enables active noise control (ANC) systems to at
 </p>
 
 
+## User Guide
 
-## Paper Information
 
-- Paper Title: Transferable Selective Virtual Sensing Active Noise Control Technique Based on Metric Learning
-- Authors: Boxiang Wang, Dongyuan Shi, Zhengding Luo, Xiaoyi Shen, Junwei Ji, Woon-Seng Gan
-- Submitted to: 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
 
 ## Contact
-
 Should you have any inquiries or require further information, please feel free to reach out via boxiang001@e.ntu.edu.sg.
