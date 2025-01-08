@@ -13,8 +13,9 @@ Virtual sensing (VS) technology enables active noise control (ANC) systems to at
 
 
 ## User Guide
-
-
+The trained network for system 1 is saved as **CNN.pth**. You can run the **Testing_system_2.ipynb** to test its classification accuracy in system 2.
+The **Control_filter_ID_prediction.ipynb** is used to predict the control filter ID for the sudden-varying broadband noise. 
+The *BPFs_sys1.mat* stores the bandpass filter for system 2 and the *BPFs.mat* stores the bandpass filter for system 2 
 
 ## Contact
 Should you have any inquiries or require further information, please feel free to reach out via boxiang001@e.ntu.edu.sg.
