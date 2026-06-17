@@ -23,5 +23,17 @@ Virtual sensing (VS) technology enables active noise control (ANC) systems to at
 - You can download the testing dataset for **System 2** here: [Download Link](https://drive.google.com/file/d/14qEkkHMep41MnfBs-wVQwqUsXSqggsjZ/view?usp=drive_link).
 
 
-## Contact
-Should you have any inquiries or require further information, please feel free to reach out via boxiang001@e.ntu.edu.sg.
+## Citation
+
+If this code is useful for your research, please cite the paper:
+
+```text
+@inproceedings{wang2025transferable,
+  title={Transferable selective virtual sensing active noise control technique based on metric learning},
+  author={Wang, Boxiang and Shi, Dongyuan and Luo, Zhengding and Shen, Xiaoyi and Ji, Junwei and Gan, Woon-Seng},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
+}
+```
