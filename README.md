@@ -1,6 +1,6 @@
 # Transferable Selective Virtual Sensing Active Noise Control
 
-This repository contains the code associated with our paper titled "**Transferable Selective Virtual Sensing Active Noise Control Technique Based on Metric Learning**", accepted by the *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)*. The paper is available on https://arxiv.org/abs/2409.05470
+This repository contains the code associated with our paper titled "**Transferable Selective Virtual Sensing Active Noise Control Technique Based on Metric Learning**", accepted by the *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)*. The paper is available on https://arxiv.org/abs/2409.05470.
 
 ## Overview
 
